@@ -6,8 +6,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -26,7 +26,7 @@ body {
 
 .cabecalho-lista-item a{
     text-decoration: none; 
-    color: white;
+    color: rgb(255, 254, 255);
 }
 
 .escola-imagem{
@@ -34,8 +34,8 @@ body {
 }
 
 #escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
-    color:white;
+    background-image: linear-gradient(#000000,#061e36);
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -86,7 +86,7 @@ body {
 }
 
 .rodape-imagem{
-    height: 60px;
+    height: 200px;
     padding: 12px 0;
    
 }
